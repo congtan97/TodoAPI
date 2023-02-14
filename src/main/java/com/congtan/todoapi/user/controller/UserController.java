@@ -1,4 +1,4 @@
-package com.congtan.todoapi.user.adapter.in.web;
+package com.congtan.todoapi.user.controller;
 
 import com.congtan.todoapi.user.domain.User;
 import com.congtan.todoapi.user.model.CreateUserRequest;
