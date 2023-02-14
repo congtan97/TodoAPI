@@ -1,14 +1,13 @@
-package com.congtan.todoapi.user.service;
+package com.congtan.todoapi.user.service.impl;
 
 import com.congtan.todoapi.user.domain.User;
 import com.congtan.todoapi.user.model.CreateUserRequest;
 import com.congtan.todoapi.user.model.UpdateUserRequest;
 import com.congtan.todoapi.user.repository.UserRepository;
+import com.congtan.todoapi.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.time.LocalDateTime;
-import java.time.ZoneId;
 import java.util.List;
 
 @Service
