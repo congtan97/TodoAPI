@@ -1,7 +1,6 @@
 package com.congtan.todoapi.todo.controller;
 
 import com.congtan.todoapi.todo.service.TodoService;
-import com.congtan.todoapi.todo.service.impl.TodoServiceImpl;
 import com.congtan.todoapi.todo.domain.Todo;
 import com.congtan.todoapi.todo.model.CreateTodoRequest;
 import com.congtan.todoapi.todo.model.GetTodosResponse;
